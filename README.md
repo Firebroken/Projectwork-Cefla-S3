@@ -16,3 +16,4 @@ Questi dati servono per:
 * Analisi monovariata.
 * Report PowerBI
 * Cambiare modello a MLP.
+* Provare a usare uno script python come fonte dati.

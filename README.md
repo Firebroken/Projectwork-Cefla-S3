@@ -15,3 +15,4 @@ Questi dati servono per:
 * Editare i file 'forecast' e 'analisi statistica' in modo da importare i dati già puliti e non avere codice ridondante.
 * Analisi monovariata.
 * Report PowerBI
+* Cambiare modello a MLP.

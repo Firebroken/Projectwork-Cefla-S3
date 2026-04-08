@@ -7,6 +7,6 @@ Librerie necessarie al funzionamento del Jupiter Notebook:
 * scikit-learn 
 # TO-DO
 * Separare il file forecast in due:
-  - Parte ETL
-  - Parte ML
-* Analisi monovariata 
+  - Parte ETL, con salvataggio file come da consegna.
+  - Parte ML.
+* Analisi monovariata.

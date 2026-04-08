@@ -5,3 +5,8 @@ Librerie necessarie al funzionamento del Jupiter Notebook:
 * matplotlib
 * seaborn
 * scikit-learn 
+# TO-DO
+* Separare il file forecast in due:
+  - Parte ETL
+  - Parte ML
+* Analisi monovariata 

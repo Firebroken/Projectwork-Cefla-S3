@@ -17,7 +17,7 @@ Questi dati servono per:
 * Essere utilizzati per l' analisi dei dati
 * Essere utilizzati dallo script forecast per la previsione con il Machine Learning.
 # TO-DO:
-* Editare i file **'forecast'** e **'analisi statistica'** in modo da importare i dati già puliti e non avere codice ridondante.
+* Editare il file **'forecast'**  in modo da importare i dati già puliti e non avere codice ridondante.
 * Analisi monovariata.
-* Report PowerBI
-* Cambiare modello a MLP.
+* Report PowerBI.
+* Decidere il modello da usare.

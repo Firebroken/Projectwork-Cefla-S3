@@ -16,8 +16,6 @@ Questi dati servono per:
 * Essere importati su **PowerBI**
 * Essere utilizzati per l' analisi dei dati
 * Essere utilizzati dallo script forecast per la previsione con il Machine Learning.
-# TO-DO:
-* Editare il file **'forecast'**  in modo da importare i dati già puliti e non avere codice ridondante.
-* Analisi monovariata.
-* Report PowerBI.
-* Decidere il modello da usare.
+# TO-DO
+* Presentazione
+* Documentazione

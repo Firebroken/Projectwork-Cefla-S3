@@ -16,5 +16,4 @@ Questi dati servono per:
 * Essere importati su **PowerBI**
 * Essere utilizzati per l' analisi dei dati
 * Essere utilizzati dallo script forecast per la previsione con il Machine Learning.
-# TO-DO
-* Documentazione
+

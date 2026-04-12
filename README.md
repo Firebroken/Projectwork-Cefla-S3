@@ -14,6 +14,6 @@ Autori:
 Si generano i dati puliti con lo script python **'ETL'**. 
 Questi dati servono per:
 * Essere importati su **PowerBI**
-* Essere utilizzati per l' analisi dei dati
-* Essere utilizzati dallo script forecast per la previsione con il Machine Learning.
+* Essere utilizzati per l'analisi dei dati dallo script python **'EDA'**
+* Essere utilizzati dallo script forecast **'forecast_GradientBoost'** per la previsione con il Machine Learning.
 
